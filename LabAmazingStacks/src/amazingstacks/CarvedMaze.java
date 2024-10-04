@@ -8,7 +8,6 @@ package amazingstacks;
 
 import java.awt.Color;
 import java.util.ArrayList;
-import java.util.Stack;
 
 /**
  *
@@ -16,7 +15,7 @@ import java.util.Stack;
  */
 public class CarvedMaze extends Maze
 {
-    private boolean[][] carved;
+    private final boolean[][] carved;
     
     public CarvedMaze(int width, int height)
     {
