@@ -32,7 +32,7 @@ public class LinkedStack<E>
      */
     public void push(E item)
     {
-        this.head = new Node(item, this.head);
+        this.head = new Node<>(item, this.head);
     }
     
     /**
