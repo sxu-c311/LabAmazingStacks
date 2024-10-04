@@ -1,2 +1,0 @@
-amazingstacks.WanderingAnt
-amazingstacks.WanderingAntBackup
